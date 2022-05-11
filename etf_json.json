@@ -1,0 +1,560 @@
+[
+    {
+        "name": "CPSE Exchange Traded Fund",
+        "asset size": "9,854.40",
+        "latest": "34.36",
+        "NAV": "34.69",
+        "One Year Return": "39.83",
+        "Two Year Return": "46.58",
+        "Three Year Return": "9.58"
+    },
+    {
+        "name": "Can Gold Exchange Traded Fund",
+        "asset size": "39.30",
+        "latest": "3,525.00",
+        "NAV": "3,539.79",
+        "One Year Return": "--",
+        "Two Year Return": "--",
+        "Three Year Return": "--"
+    },
+    {
+        "name": "Nippon ETF PSU Bank BeES",
+        "asset size": "265.86",
+        "latest": "27.50",
+        "NAV": "27.78",
+        "One Year Return": "18.81",
+        "Two Year Return": "46.67",
+        "Three Year Return": "-5.91"
+    },
+    {
+        "name": "Kotak PSU Bank ETF",
+        "asset size": "185.83",
+        "latest": "247.30",
+        "NAV": "248.96",
+        "One Year Return": "18.63",
+        "Two Year Return": "46.53",
+        "Three Year Return": "-6.01"
+    },
+    {
+        "name": "Nippon ETF Infra BeES",
+        "asset size": "29.66",
+        "latest": "499.35",
+        "NAV": "501.20",
+        "One Year Return": "16.54",
+        "Two Year Return": "33.85",
+        "Three Year Return": "16.93"
+    },
+    {
+        "name": "Nippon ETF Dividend Opportunities",
+        "asset size": "3.69",
+        "latest": "42.91",
+        "NAV": "43.28",
+        "One Year Return": "14.33",
+        "Two Year Return": "35.81",
+        "Three Year Return": "13.39"
+    },
+    {
+        "name": "ICICI Prudential NV20 ETF",
+        "asset size": "28.92",
+        "latest": "90.43",
+        "NAV": "91.23",
+        "One Year Return": "13.66",
+        "Two Year Return": "40.64",
+        "Three Year Return": "17.99"
+    },
+    {
+        "name": "Kotak NV 20 ETF",
+        "asset size": "29.66",
+        "latest": "92.00",
+        "NAV": "92.92",
+        "One Year Return": "13.64",
+        "Two Year Return": "40.74",
+        "Three Year Return": "17.87"
+    },
+    {
+        "name": "Nippon ETF Consumption",
+        "asset size": "26.38",
+        "latest": "71.68",
+        "NAV": "72.01",
+        "One Year Return": "12.79",
+        "Two Year Return": "26.23",
+        "Three Year Return": "13.57"
+    },
+    {
+        "name": "Motilal MOSt Oswal Midcap 100 ETF",
+        "asset size": "87.43",
+        "latest": "28.76",
+        "NAV": "29.08",
+        "One Year Return": "12.21",
+        "Two Year Return": "46.73",
+        "Three Year Return": "18.13"
+    },
+    {
+        "name": "SBI - ETF Sensex",
+        "asset size": "10,000.00",
+        "latest": "573.41",
+        "NAV": "574.70",
+        "One Year Return": "10.86",
+        "Two Year Return": "32.23",
+        "Three Year Return": "14.37"
+    },
+    {
+        "name": "HDFC Sensex ETF",
+        "asset size": "103.15",
+        "latest": "583.95",
+        "NAV": "584.68",
+        "One Year Return": "10.88",
+        "Two Year Return": "32.2",
+        "Three Year Return": "14.36"
+    },
+    {
+        "name": "UTI Sensex Exchange Traded Fund",
+        "asset size": "4,804.38",
+        "latest": "569.67",
+        "NAV": "571.11",
+        "One Year Return": "10.88",
+        "Two Year Return": "32.24",
+        "Three Year Return": "14.39"
+    },
+    {
+        "name": "Nippon ETF Sensex",
+        "asset size": "73.24",
+        "latest": "599.88",
+        "NAV": "592.14",
+        "One Year Return": "10.84",
+        "Two Year Return": "32.15",
+        "Three Year Return": "14.33"
+    },
+    {
+        "name": "LIC MF ETF - Sensex",
+        "asset size": "378.84",
+        "latest": "582.17",
+        "NAV": "583.51",
+        "One Year Return": "10.74",
+        "Two Year Return": "32.16",
+        "Three Year Return": "14.33"
+    },
+    {
+        "name": "Kotak Sensex ETF",
+        "asset size": "20.86",
+        "latest": "565.00",
+        "NAV": "569.88",
+        "One Year Return": "10.65",
+        "Two Year Return": "31.95",
+        "Three Year Return": "14.12"
+    },
+    {
+        "name": "SBI - ETF BSE 100",
+        "asset size": "6.03",
+        "latest": "175.41",
+        "NAV": "174.88",
+        "One Year Return": "10.44",
+        "Two Year Return": "34.34",
+        "Three Year Return": "14.46"
+    },
+    {
+        "name": "LIC MF ETF - CNX Nifty 50",
+        "asset size": "497.24",
+        "latest": "177.25",
+        "NAV": "173.55",
+        "One Year Return": "9.87",
+        "Two Year Return": "33.66",
+        "Three Year Return": "14.1"
+    },
+    {
+        "name": "ICICI Prudential Nifty ETF",
+        "asset size": "3,134.90",
+        "latest": "174.16",
+        "NAV": "174.76",
+        "One Year Return": "9.88",
+        "Two Year Return": "33.69",
+        "Three Year Return": "14.09"
+    },
+    {
+        "name": "HDFC Nifty 50 ETF",
+        "asset size": "1,116.78",
+        "latest": "173.49",
+        "NAV": "173.95",
+        "One Year Return": "9.86",
+        "Two Year Return": "33.68",
+        "Three Year Return": "14.05"
+    },
+    {
+        "name": "UTI Nifty Exchange Traded Fund",
+        "asset size": "10,000.00",
+        "latest": "1,459.00",
+        "NAV": "1,710.82",
+        "One Year Return": "9.87",
+        "Two Year Return": "33.69",
+        "Three Year Return": "14.05"
+    },
+    {
+        "name": "SBI - ETF Nifty 50",
+        "asset size": "10,000.00",
+        "latest": "165.79",
+        "NAV": "166.20",
+        "One Year Return": "9.85",
+        "Two Year Return": "33.68",
+        "Three Year Return": "14.04"
+    },
+    {
+        "name": "Nippon ETF Nifty BeES",
+        "asset size": "4,669.69",
+        "latest": "175.15",
+        "NAV": "175.75",
+        "One Year Return": "9.89",
+        "Two Year Return": "33.7",
+        "Three Year Return": "14.09"
+    },
+    {
+        "name": "Invesco India Nifty ETF",
+        "asset size": "1.98",
+        "latest": "1,767.00",
+        "NAV": "1,774.18",
+        "One Year Return": "9.82",
+        "Two Year Return": "33.6",
+        "Three Year Return": "14.02"
+    },
+    {
+        "name": "Motilal MOSt Oswal M50 ETF",
+        "asset size": "28.83",
+        "latest": "161.06",
+        "NAV": "161.61",
+        "One Year Return": "9.84",
+        "Two Year Return": "33.55",
+        "Three Year Return": "13.9"
+    },
+    {
+        "name": "Kotak Nifty ETF",
+        "asset size": "1,631.93",
+        "latest": "171.89",
+        "NAV": "171.49",
+        "One Year Return": "9.79",
+        "Two Year Return": "33.59",
+        "Three Year Return": "13.96"
+    },
+    {
+        "name": "Quantum Nifty ETF (G)",
+        "asset size": "5.79",
+        "latest": "1,692.00",
+        "NAV": "1,701.48",
+        "One Year Return": "9.83",
+        "Two Year Return": "33.64",
+        "Three Year Return": "13.98"
+    },
+    {
+        "name": "LIC MF ETF - Nifty 100",
+        "asset size": "309.64",
+        "latest": "173.85",
+        "NAV": "173.90",
+        "One Year Return": "9.72",
+        "Two Year Return": "33.17",
+        "Three Year Return": "13.97"
+    },
+    {
+        "name": "IDFC NIFTY ETF",
+        "asset size": "1.07",
+        "latest": "170.59",
+        "NAV": "170.73",
+        "One Year Return": "9.5",
+        "Two Year Return": "32.99",
+        "Three Year Return": "13.86"
+    },
+    {
+        "name": "Nippon ETF Shariah BeES",
+        "asset size": "13.13",
+        "latest": "402.00",
+        "NAV": "405.65",
+        "One Year Return": "9.48",
+        "Two Year Return": "32.51",
+        "Three Year Return": "17.52"
+    },
+    {
+        "name": "ICICI Prudential Nifty 100 ETF",
+        "asset size": "35.42",
+        "latest": "178.15",
+        "NAV": "178.60",
+        "One Year Return": "9.44",
+        "Two Year Return": "32.87",
+        "Three Year Return": "13.83"
+    },
+    {
+        "name": "Nippon ETF Nifty 100",
+        "asset size": "174.41",
+        "latest": "169.47",
+        "NAV": "170.00",
+        "One Year Return": "9.37",
+        "Two Year Return": "32.56",
+        "Three Year Return": "13.35"
+    },
+    {
+        "name": "Mirae Asset Nifty Next 50 ETF",
+        "asset size": "76.81",
+        "latest": "*N.T",
+        "NAV": "389.26",
+        "One Year Return": "8.06",
+        "Two Year Return": "29.91",
+        "Three Year Return": "--"
+    },
+    {
+        "name": "SBI - ETF Nifty Next 50",
+        "asset size": "955.08",
+        "latest": "404.25",
+        "NAV": "403.10",
+        "One Year Return": "7.87",
+        "Two Year Return": "30.42",
+        "Three Year Return": "14.18"
+    },
+    {
+        "name": "Nippon ETF Junior BeES",
+        "asset size": "2,130.66",
+        "latest": "408.37",
+        "NAV": "407.53",
+        "One Year Return": "7.85",
+        "Two Year Return": "30.39",
+        "Three Year Return": "14.22"
+    },
+    {
+        "name": "ICICI Pru Midcap Select ETF",
+        "asset size": "28.35",
+        "latest": "92.46",
+        "NAV": "92.22",
+        "One Year Return": "7.82",
+        "Two Year Return": "34.79",
+        "Three Year Return": "13.24"
+    },
+    {
+        "name": "IDBI Gold Exchange Traded Fund",
+        "asset size": "70.69",
+        "latest": "4,570.00",
+        "NAV": "4,722.85",
+        "One Year Return": "6.89",
+        "Two Year Return": "4.68",
+        "Three Year Return": "16.31"
+    },
+    {
+        "name": "Invesco India Gold ETF",
+        "asset size": "33.63",
+        "latest": "4,550.20",
+        "NAV": "4,606.53",
+        "One Year Return": "6.62",
+        "Two Year Return": "4.63",
+        "Three Year Return": "16.55"
+    },
+    {
+        "name": "Axis Gold ETF",
+        "asset size": "277.33",
+        "latest": "43.76",
+        "NAV": "44.24",
+        "One Year Return": "6.55",
+        "Two Year Return": "4.62",
+        "Three Year Return": "16.44"
+    },
+    {
+        "name": "ICICI Prudential Gold ETF",
+        "asset size": "166.50",
+        "latest": "44.98",
+        "NAV": "45.37",
+        "One Year Return": "6.58",
+        "Two Year Return": "4.47",
+        "Three Year Return": "16.17"
+    },
+    {
+        "name": "HDFC Gold Exchange Traded Fund",
+        "asset size": "2,527.16",
+        "latest": "44.88",
+        "NAV": "45.44",
+        "One Year Return": "6.5",
+        "Two Year Return": "4.5",
+        "Three Year Return": "16.16"
+    },
+    {
+        "name": "UTI Gold Exchange Traded Fund",
+        "asset size": "502.35",
+        "latest": "43.57",
+        "NAV": "44.30",
+        "One Year Return": "6.1",
+        "Two Year Return": "4.03",
+        "Three Year Return": "15.92"
+    },
+    {
+        "name": "Nippon ETF Gold BeES",
+        "asset size": "2,748.95",
+        "latest": "43.82",
+        "NAV": "44.22",
+        "One Year Return": "5.94",
+        "Two Year Return": "4.3",
+        "Three Year Return": "16.15"
+    },
+    {
+        "name": "Edelweiss ETS - Banking",
+        "asset size": "1.10",
+        "latest": "3,650.00",
+        "NAV": "3,493.42",
+        "One Year Return": "4.4",
+        "Two Year Return": "33.63",
+        "Three Year Return": "5.84"
+    },
+    {
+        "name": "Nippon ETF Bank BeES",
+        "asset size": "9,709.93",
+        "latest": "347.42",
+        "NAV": "346.80",
+        "One Year Return": "4.19",
+        "Two Year Return": "33.34",
+        "Three Year Return": "5.49"
+    },
+    {
+        "name": "SBI - ETF Nifty Bank",
+        "asset size": "5,485.57",
+        "latest": "344.95",
+        "NAV": "343.91",
+        "One Year Return": "4.18",
+        "Two Year Return": "33.37",
+        "Three Year Return": "5.52"
+    },
+    {
+        "name": "Kotak Banking ETF",
+        "asset size": "7,757.74",
+        "latest": "348.50",
+        "NAV": "347.77",
+        "One Year Return": "4.15",
+        "Two Year Return": "33.19",
+        "Three Year Return": "5.44"
+    },
+    {
+        "name": "Nippon ETF Liquid BeES",
+        "asset size": "2,172.90",
+        "latest": "1,000.00",
+        "NAV": "1,000.00",
+        "One Year Return": "2.14",
+        "Two Year Return": "2.15",
+        "Three Year Return": "1.8"
+    },
+    {
+        "name": "LIC G-Sec LTE Fund - RP (G)",
+        "asset size": "82.38",
+        "latest": "",
+        "NAV": "21.69",
+        "One Year Return": "-1.8",
+        "Two Year Return": "1.02",
+        "Three Year Return": "5.74"
+    },
+    {
+        "name": "Nippon ETF Long Term Gilt",
+        "asset size": "6.11",
+        "latest": "21.99",
+        "NAV": "21.99",
+        "One Year Return": "-2.14",
+        "Two Year Return": "0.96",
+        "Three Year Return": "5.87"
+    },
+    {
+        "name": "SBI-ETF 10Y Gilt",
+        "asset size": "0.72",
+        "latest": "198.00",
+        "NAV": "197.84",
+        "One Year Return": "-3.47",
+        "Two Year Return": "-0.21",
+        "Three Year Return": "4.97"
+    },
+    {
+        "name": "Nippon Close Ended Eqty-Sr-A (G)",
+        "asset size": "330.25",
+        "latest": "*N.T",
+        "NAV": "22.67",
+        "One Year Return": "--",
+        "Two Year Return": "--",
+        "Three Year Return": "--"
+    },
+    {
+        "name": "Nippon ETF Hang Seng BeES",
+        "asset size": "94.15",
+        "latest": "303.99",
+        "NAV": "253.52",
+        "One Year Return": "-27.18",
+        "Two Year Return": "-7.76",
+        "Three Year Return": "-6.79"
+    },
+    {
+        "name": "ABSL Nifty ETF",
+        "asset size": "481.47",
+        "latest": "17.98",
+        "NAV": "18.08",
+        "One Year Return": "9.89",
+        "Two Year Return": "33.68",
+        "Three Year Return": "14.09"
+    },
+    {
+        "name": "Kotak Gold ETF",
+        "asset size": "1,446.43",
+        "latest": "43.94",
+        "NAV": "44.34",
+        "One Year Return": "6.54",
+        "Two Year Return": "4.54",
+        "Three Year Return": "16.4"
+    },
+    {
+        "name": "Motilal Oswal NASDAQ 100 ETF",
+        "asset size": "6,272.86",
+        "latest": "104.37",
+        "NAV": "92.27",
+        "One Year Return": "-6.31",
+        "Two Year Return": "16.92",
+        "Three Year Return": "21.27"
+    },
+    {
+        "name": "Edelweiss ETF - NQ30",
+        "asset size": "16.72",
+        "latest": "",
+        "NAV": "8.89",
+        "One Year Return": "-97.51",
+        "Two Year Return": "-80.3",
+        "Three Year Return": "-67.91"
+    },
+    {
+        "name": "Quantum Gold Fund ",
+        "asset size": "64.36",
+        "latest": "43.53",
+        "NAV": "43.99",
+        "One Year Return": "6.36",
+        "Two Year Return": "3.43",
+        "Three Year Return": "16.13"
+    },
+    {
+        "name": "SBI - ETF Gold",
+        "asset size": "866.34",
+        "latest": "44.98",
+        "NAV": "45.52",
+        "One Year Return": "6.57",
+        "Two Year Return": "4.57",
+        "Three Year Return": "16.44"
+    },
+    {
+        "name": "Birla Sun Life Gold ETF (G)",
+        "asset size": "120.19",
+        "latest": "46.20",
+        "NAV": "46.67",
+        "One Year Return": "6.61",
+        "Two Year Return": "4.38",
+        "Three Year Return": "16.52"
+    },
+    {
+        "name": "Edelweiss ETS - Nifty (Nifty EES)",
+        "asset size": "1.92",
+        "latest": "23,293.80",
+        "NAV": "9.08",
+        "One Year Return": "-99.94",
+        "Two Year Return": "-96.96",
+        "Three Year Return": "-90.88"
+    },
+    {
+        "name": "R*Shares Gold ETF ",
+        "asset size": "1,278.25",
+        "latest": "2,719.99",
+        "NAV": "2,736.83",
+        "One Year Return": "--",
+        "Two Year Return": "--",
+        "Three Year Return": "--"
+    }
+]
